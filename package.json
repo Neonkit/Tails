@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Neonkit/Tails/issues"
   },
-  "homepage": "https://github.com/Neonkit/Tails#readme"
+  "homepage": "https://github.com/Neonkit/Tails#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
